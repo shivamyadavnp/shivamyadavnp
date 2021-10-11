@@ -21,6 +21,6 @@ I can.
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shivamyadavnp&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamyadavnp&theme=tokyonight&date_format=j%20M%5B%20Y%5D"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamyadavnp&langs_count=7&theme=algolia&layout=compact"/>
-<!--   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamyadavnp&theme=tokyonight&date_format=j%20M%5B%20Y%5D"/> -->
 </div>
