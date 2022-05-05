@@ -1,7 +1,7 @@
 <h2 align="center">Welcome to Shivam's Git World 👋</h2>
 <h4 align="center">A passionate about the way of building internet safer and easier for everyone</h4>
 
-Hi, I am Shivam Yadav from Nepal. I am a student reading in Grade 9 in my own residental city. I am even hobbysit of software development and aim to hold a software company 
+Hi, I am Shivam Yadav from Nepal. I am a student reading in Grade 10 in my own residental city. I am even hobbysit of software development and aim to hold a software company 
 out in the future. It's my hobby on building apps and games that took me before you and I am happy for this. I am constantly engaged with making and publishing open source app 
 for different platforms. What I know is, I am contributor to internet and it's community.
 
